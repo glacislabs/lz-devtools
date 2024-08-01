@@ -2,14 +2,14 @@
 
 pragma solidity ^0.8.18;
 
-import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
+import { Ownable2Step } from "@openzeppelin/contracts/access/Ownable2Step.sol";
 import { IOAppCore, ILayerZeroEndpointV2 } from "./interfaces/IOAppCore.sol";
 
 /**
  * @title OAppCore
  * @dev Abstract contract implementing the IOAppCore interface with basic OApp configurations.
  */
-abstract contract OAppCore is IOAppCore, Ownable {
+abstract contract OAppCore is IOAppCore, Ownable2Step {
     // The LayerZero endpoint associated with the given OApp
     ILayerZeroEndpointV2 public immutable endpoint;
 
