@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: LZBL-1.2
 pragma solidity ^0.8.0;
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.18;
 
 import { ILayerZeroUltraLightNodeV2 } from "@layerzerolabs/lz-evm-v1-0.7/contracts/interfaces/ILayerZeroUltraLightNodeV2.sol";
 
