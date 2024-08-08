@@ -25,7 +25,7 @@
     "@layerzerolabs/eslint-config-next": "~2.3.3",
     "@layerzerolabs/lz-definitions": "^2.3.29",
     "@layerzerolabs/lz-evm-messagelib-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/messagelib?main",
-    "@layerzerolabs/lz-evm-protocol-v2": "^2.3.29",
+    "@layerzerolabs/lz-evm-protocol-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/protocol?main",
     "@layerzerolabs/lz-evm-v1-0.7": "^2.3.29",
     "@layerzerolabs/lz-v2-utilities": "^2.3.29",
     "@layerzerolabs/oapp-evm": "^0.0.1",

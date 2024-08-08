@@ -49,7 +49,7 @@
     "@layerzerolabs/devtools-evm-hardhat": "~1.0.0",
     "@layerzerolabs/io-devtools": "~0.1.11",
     "@layerzerolabs/lz-definitions": "^2.3.25",
-    "@layerzerolabs/lz-evm-messagelib-v2": "^2.3.25",
+    "@layerzerolabs/lz-evm-messagelib-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/messagelib?main",
     "@layerzerolabs/lz-v2-utilities": "^2.3.25",
     "@layerzerolabs/protocol-devtools": "~0.4.0",
     "@layerzerolabs/protocol-devtools-evm": "~1.0.0",

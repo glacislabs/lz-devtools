@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@layerzerolabs/lz-evm-messagelib-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/messagelib?main",
-    "@layerzerolabs/lz-evm-protocol-v2": "^2.3.29",
+    "@layerzerolabs/lz-evm-protocol-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/protocol?main",
     "@layerzerolabs/lz-evm-v1-0.7": "^2.3.29",
     "@layerzerolabs/oapp-evm": "^0.0.1",
     "@layerzerolabs/test-devtools-evm-foundry": "~0.2.9",
@@ -53,8 +53,8 @@
   },
   "peerDependencies": {
     "@layerzerolabs/lz-evm-messagelib-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/messagelib?main",
-    "@layerzerolabs/lz-evm-oapp-v2": "^2.3.29",
-    "@layerzerolabs/lz-evm-protocol-v2": "^2.3.29",
+    "@layerzerolabs/lz-evm-oapp-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/oapp?main",
+    "@layerzerolabs/lz-evm-protocol-v2": "https://gitpkg.vercel.app/glacislabs/LayerZero-v2/packages/layerzero-v2/evm/protocol?main",
     "@layerzerolabs/lz-evm-v1-0.7": "^2.3.29",
     "@openzeppelin/contracts": "^4.8.1 || ^5.0.0",
     "@openzeppelin/contracts-upgradeable": "^4.8.1 || ^5.0.0"
